@@ -22,7 +22,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Título
-st.markdown('<div class="header-box"><h1>NRA Advocacia Empresarial: Evolução Comercial</h1></div>', unsafe_allow_html=True)
+st.markdown('<div class="header-box"><h1>NRA Advocacia Empresarial: Evolução Comercial até Maio/2026</h1></div>', unsafe_allow_html=True)
 
 # 1. Desenvolvimento de Prospecção
 st.markdown('<div class="block-text"><h2>Desenvolvimento de Aplicativo Próprio</h2><p class="sub-text">Automação de ponta a ponta para otimizar o tempo e reduzir a dependência de métodos manuais. Unificação de dados de fontes diversas.</p>', unsafe_allow_html=True)
