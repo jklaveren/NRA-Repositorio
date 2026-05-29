@@ -1,0 +1,21 @@
+date,order_id,customer,product,revenue
+2026-05-28,PED-00001,Cliente 1,Produto A,4200
+2026-05-27,PED-00002,Cliente 2,Produto B,1500
+2026-05-26,PED-00003,Cliente 3,Produto C,3200
+2026-05-25,PED-00004,Cliente 4,Produto A,2800
+2026-05-24,PED-00005,Cliente 5,Produto D,760
+2026-05-23,PED-00006,Cliente 6,Produto B,1950
+2026-05-22,PED-00007,Cliente 7,Produto C,4300
+2026-05-21,PED-00008,Cliente 8,Produto A,1250
+2026-05-20,PED-00009,Cliente 9,Produto D,980
+2026-05-19,PED-00010,Cliente 10,Produto B,2120
+2026-05-18,PED-00011,Cliente 11,Produto C,3050
+2026-05-17,PED-00012,Cliente 12,Produto A,4100
+2026-05-16,PED-00013,Cliente 13,Produto B,1750
+2026-05-15,PED-00014,Cliente 14,Produto D,640
+2026-05-14,PED-00015,Cliente 15,Produto C,3870
+2026-05-13,PED-00016,Cliente 16,Produto A,2550
+2026-05-12,PED-00017,Cliente 17,Produto B,1990
+2026-05-11,PED-00018,Cliente 18,Produto C,2780
+2026-05-10,PED-00019,Cliente 19,Produto D,830
+2026-05-09,PED-00020,Cliente 20,Produto A,4990
